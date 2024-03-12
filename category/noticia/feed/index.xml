@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Noticia Archives - Promigas 50 Años</title>
+	<atom:link href="/category/noticia/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/noticia/</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Mar 2024 13:38:54 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/03/Enmascarar-grupo-116.png</url>
+	<title>Noticia Archives - Promigas 50 Años</title>
+	<link>/category/noticia/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>60 madres adolescentes reciben certificación en servicios hoteleros para impulsar su empleabilidad en Cartagena</title>
+		<link>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/</link>
+					<comments>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/#respond</comments>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 12 Mar 2024 13:37:03 +0000</pubDate>
+				<category><![CDATA[Noticia]]></category>
+		<guid isPermaLink="false">/?p=1015</guid>
+
+					<description><![CDATA[Descripción: La inclusión laboral es uno de los retos más importantes en el país. Por eso, Surtigas y su Fundación Promigas, en alianza con la Fundación Juanfe, certificaron a 60 madres adolescentes de Cartagena en Servicios Hoteleros, a través de la iniciativa Mujeres Pa’lante.]]></description>
+										<content:encoded><![CDATA[
+<p>Descripción: La inclusión laboral es uno de los retos más importantes en el país. Por eso, Surtigas y su Fundación Promigas, en alianza con la Fundación Juanfe, certificaron a 60 madres adolescentes de Cartagena en Servicios Hoteleros, a través de la iniciativa Mujeres Pa’lante.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>En Cali, 17 mujeres se certifican en Alta Costura de la Escuela Johanna Ortiz</title>
+		<link>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/</link>
+					<comments>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/#respond</comments>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Mon, 11 Mar 2024 22:31:02 +0000</pubDate>
+				<category><![CDATA[Noticia]]></category>
+		<guid isPermaLink="false">/?p=1010</guid>
+
+					<description><![CDATA[Descripción: Gracias a la alianza entre GdO - Gases de Occidente, Fundación Promigas, Johanna Ortiz y Fundación Alvaralice, 17 mujeres recibieron certificación en Alta Costura por parte de la Escuela Johanna Ortiz, iniciativa que nace en 2016 con el propósito de desarrollar capacidades y potenciar el talento de la región, a través del oficio de la alta costura.]]></description>
+										<content:encoded><![CDATA[
+<p>Descripción: Gracias a la alianza entre GdO &#8211; Gases de Occidente, Fundación Promigas, Johanna Ortiz y Fundación Alvaralice, 17 mujeres recibieron certificación en Alta Costura por parte de la Escuela Johanna Ortiz, iniciativa que nace en 2016 con el propósito de desarrollar capacidades y potenciar el talento de la región, a través del oficio de la alta costura.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
