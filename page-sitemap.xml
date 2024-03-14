@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-12T14:45:07+00:00</lastmod>
+		<lastmod>2024-03-13T20:59:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/portada1video.png</image:loc>
 		</image:image>
@@ -33,22 +33,84 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/circulo.png</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Enmascarar-grupo-117.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/imagepromigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-13256-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Enmascarar-grupo-117.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/imagepromigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-13256-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Anos-9.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/protagonistas/</loc>
 		<lastmod>2024-03-11T20:36:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Enmascarar-grupo-114.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/progreso/</loc>
-		<lastmod>2024-03-12T14:38:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Grupo-3152.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -92,6 +154,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/senor_sembrana-ql3tv6dkevcigalxj5zez9mbmrzesp506qjidd8ja8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/progreso/</loc>
+		<lastmod>2024-03-14T13:54:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-3152.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
