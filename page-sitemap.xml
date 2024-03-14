@@ -107,20 +107,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/protagonistas/</loc>
-		<lastmod>2024-03-11T20:36:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Enmascarar-grupo-114.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/promoviendo/</loc>
-		<lastmod>2024-03-12T14:38:50+00:00</lastmod>
+		<lastmod>2024-03-14T17:04:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-2.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Captura-de-Pantalla-2024-03-04-a-las-7.38.36-p.m.png</image:loc>
@@ -157,8 +147,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/protagonistas/</loc>
+		<lastmod>2024-03-14T17:06:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Enmascarar-grupo-114.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/progreso/</loc>
-		<lastmod>2024-03-14T13:54:05+00:00</lastmod>
+		<lastmod>2024-03-14T19:44:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-4.png</image:loc>
 		</image:image>
