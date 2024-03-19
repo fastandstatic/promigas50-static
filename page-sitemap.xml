@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-15T14:56:45+00:00</lastmod>
+		<lastmod>2024-03-18T20:17:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/portada1video.png</image:loc>
 		</image:image>
@@ -107,8 +107,12 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/protagonistas/</loc>
+		<lastmod>2024-03-18T16:37:34+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/promoviendo/</loc>
-		<lastmod>2024-03-15T13:46:44+00:00</lastmod>
+		<lastmod>2024-03-18T16:45:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-1.png</image:loc>
 		</image:image>
@@ -147,12 +151,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/protagonistas/</loc>
-		<lastmod>2024-03-15T14:07:07+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/progreso/</loc>
-		<lastmod>2024-03-15T16:17:14+00:00</lastmod>
+		<lastmod>2024-03-19T16:24:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/banner-nuevos-4.png</image:loc>
 		</image:image>
