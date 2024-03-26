@@ -12,7 +12,7 @@
 	<atom:link href="/category/destacado/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/destacado/</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 Mar 2024 13:54:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 16:00:03 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,12 @@
 
 					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social de Promigas. Este vocero, escogido en cada una de las iniciativas que lidera su fundación, nos cuenta desde el lugar de la noticia las historias que resaltan el compromiso de Promigas con llevar progreso a las comunidades. Desde Ciénaga (Magdalena), Gisela Martínez, beneficiaria de 'Alas Comunidades', nos cuenta cómo fue la I jornada 'Juntos por el Progreso Social'.]]></description>
 										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="REPORTERA DE LA HUELLA SOCIAL" width="800" height="450" src="https://www.youtube.com/embed/0oQtz9a3cUI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
 <ul>
 <li><em>En el marco de los 50 años de Promigas y 25 de su fundación, se inicia la conmemoración con la primera jornada ‘Juntos por el PROgreso’, donde beneficiarios y familiares, líderes, vecinos y otros actores de la comunidad disfrutaron de una tarde llena de actividades para su bienestar.&nbsp;</em></li>
 
