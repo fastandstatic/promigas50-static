@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/</loc>
-		<lastmod>2024-03-11T22:31:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/JO-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/</loc>
-		<lastmod>2024-03-12T13:38:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Mujeres-Palante-.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga-2/</loc>
 		<lastmod>2024-03-18T16:34:49+00:00</lastmod>
 		<image:image>
@@ -23,9 +9,23 @@
 	</url>
 	<url>
 		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga/</loc>
-		<lastmod>2024-03-26T16:00:03+00:00</lastmod>
+		<lastmod>2024-03-27T14:13:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Con-Ia-jornada-Juntos-por-el.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/</loc>
+		<lastmod>2024-03-27T21:05:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JO-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/</loc>
+		<lastmod>2024-03-27T21:05:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Mujeres-Palante-.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
