@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga-2/</loc>
-		<lastmod>2024-03-18T16:34:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Portada-Juntos-por-el-PROgreso-1-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga/</loc>
 		<lastmod>2024-03-27T14:13:24+00:00</lastmod>
 		<image:image>
@@ -26,6 +19,13 @@
 		<lastmod>2024-03-27T22:12:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/JO-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga-2/</loc>
+		<lastmod>2024-04-01T14:37:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Portada-Juntos-por-el-PROgreso-1-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
