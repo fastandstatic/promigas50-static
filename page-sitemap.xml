@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-04-01T14:00:07+00:00</lastmod>
+		<lastmod>2024-04-01T14:24:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/imag-12-1.png</image:loc>
 		</image:image>
@@ -259,6 +259,9 @@
 			<image:loc>/wp-content/uploads/2024/03/Anos-4.png;</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/u-22-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/anos2-2.png;</image:loc>
 		</image:image>
 		<image:image>
@@ -274,7 +277,7 @@
 			<image:loc>/wp-content/uploads/2024/03/Anos-6.png;</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-16-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/Imagen-de-WhatsApp-2024-03-27-a-las-17.33.53_87cbab55.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/utimos-anos-4.png;</image:loc>
