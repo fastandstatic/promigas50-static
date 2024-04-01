@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-27T22:35:12+00:00</lastmod>
+		<lastmod>2024-04-01T14:00:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/imag-12-1.png</image:loc>
 		</image:image>
@@ -82,7 +82,7 @@
 			<image:loc>/wp-content/uploads/elementor/thumbs/1979-1983-Obra-Cruce-Sub-Atlantico-en-la-Barra-qluay44aekfmkw23r99vq0s525qocv6ji3xv782gm8.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/1983-Guido-Nule-Amin-Segunda-Etapa-1-scaled-qluay9rbjkncijtwubpn4zcwmgyvn1sxivus2vu3kw.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/1983-Guido-Nule-Amin-Segunda-Etapa-1-scaled-e1711978084336-qm2ldi8g3fbt0uojw5brfypivsxfrvpbwyof6uqf1c.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/1983-Guido-Nule-Amin-Segunda-Etapa-2-1-scaled-qluaygc6vewcrtkcrwk14fp4s62g4xj1vsf6ftkcdc.jpg</image:loc>
@@ -121,10 +121,10 @@
 			<image:loc>/wp-content/uploads/elementor/thumbs/1992-Inauguracion-gasoducto-Santo-Tomas-Gases-del-Caribe--qluazt7sqsr9jjlcuhomq3d3o7dj96x3eicfe7jvds.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/1992-Mary-Cabrera-y-Antonio-Celia-scaled-qluazw1bbav4idh9e0wifknhgczmwa8aewavu1fov4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/1992-Mary-Cabrera-y-Antonio-Celia-scaled-e1711978344364-qm2lkamhgcmcvgtk92yrg91dbzgvd6njikanyso23k.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/1992-Presidente-Antonio-Celia-scaled-qlub02m6n544rn7pblqwf0zpm237e5yersva6z5xnk.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/1992-Presidente-Antonio-Celia-scaled-e1711978364960-qm2lktf991c3bo297b3au4al7ow7n4q695cdkbw6n4.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/1993-Transmetano-1-1-scaled-qlub0971yzd50wy596laehbxrr6rw1oj4pfojww6g0.jpg</image:loc>
@@ -175,7 +175,7 @@
 			<image:loc>/wp-content/uploads/2024/03/1979-1983.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-12-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/1983.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/anos2-3.png</image:loc>
@@ -193,13 +193,13 @@
 			<image:loc>/wp-content/uploads/2024/03/anos2-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/u-23-1-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/1990-Imagenes-de-la-fachada-de-las-instalaciones-de-Promigas-.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/ano-1990.png;</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-15-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/1992.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/ano-1992.png;</image:loc>
@@ -247,7 +247,7 @@
 			<image:loc>/wp-content/uploads/2024/03/1979-1983.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-09-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/1983.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/anos2-3.png</image:loc>
@@ -262,10 +262,13 @@
 			<image:loc>/wp-content/uploads/2024/03/anos2-2.png;</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/1990-Imagenes-de-la-fachada-de-las-instalaciones-de-Promigas--300x220.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/1990.png;</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-15-300x220.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/1992-300x220.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Anos-6.png;</image:loc>
