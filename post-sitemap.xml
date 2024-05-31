@@ -1,31 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga/</loc>
-		<lastmod>2024-03-27T14:13:24+00:00</lastmod>
+		<loc>/impulsamos-60-emprendimientos-en-bolivar-y-la-guajira/</loc>
+		<lastmod>2024-05-31T19:47:04+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Con-Ia-jornada-Juntos-por-el.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/DSC00021-1-1024x683-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC00021-1-1024x683-2-300x200.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC09885-Mejorado-NR-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC00051-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC00046-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC00077-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC00017-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC09939-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC09950-Mejorado-NR-scaled-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC09992-scaled-1-300x207.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/logos123.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/con-el-sector-gastronomico-promovemos-mas-empleo-juvenil-en-santander/</loc>
+		<lastmod>2024-05-31T19:47:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Imagen-de-WhatsApp-2024-05-29-a-las-11.13.58_7332558c.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/cocinaparatodos.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Sector-gastronomico-firma-Pacto-por-Mas-Empleo-Juvenil-en-Santander.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/junto-a-las-comunidades-de-la-guajira-fundacion-promigas-celebra-25-anos-impulsando-progreso/</loc>
+		<lastmod>2024-05-31T19:47:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Jornada-Juntos-por-el-PROgreso-La-Guajira-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mision-la-guajira-comunidades-de-manaure-reciben-de-grupo-aval-promigas-gobierno-nacional-y-aliados-soluciones-de-agua-y-seguridad-alimentaria/</loc>
+		<lastmod>2024-05-31T19:47:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Mesa-de-trabajo-1-copia-9-100.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.44-AM.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.44-AM-2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.43-AM-3.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.44-AM-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.43-AM-5.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.43-AM-6.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-06-at-9.05.43-AM-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-6.12.48-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-5.53.53-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-5.47.44-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-5.47.24-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-5.40.21-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-04-at-5.34.17-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02723-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02715-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02211-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02143-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02163-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC02037-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC01978-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC01965-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DSC01747-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Bancos-Aval-Mision-La-Guajira02-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Bancos-Aval-Mision-La-Guajira-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/desde-bolivar-alyson-ramirez-reporta-nuestra-huella-social/</loc>
+		<lastmod>2024-05-31T19:47:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/alison-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga-2/</loc>
+		<lastmod>2024-05-31T19:47:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Portada-Juntos-por-el-PROgreso-1-scaled.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/60-madres-adolescentes-reciben-certificacion-en-servicios-hoteleros-para-impulsar-su-empleabilidad-en-cartagena/</loc>
-		<lastmod>2024-03-27T21:50:53+00:00</lastmod>
+		<lastmod>2024-05-31T19:48:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Mujeres-Palante-.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/en-cali-17-mujeres-se-certifican-en-alta-costura-de-la-escuela-johanna-ortiz/</loc>
-		<lastmod>2024-03-27T22:12:42+00:00</lastmod>
+		<lastmod>2024-05-31T19:50:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/JO-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga-2/</loc>
-		<lastmod>2024-04-01T14:37:30+00:00</lastmod>
+		<loc>/con-ia-jornada-juntos-por-el-progreso-promigas-y-su-fundacion-impulsan-autonomia-economica-de-60-mujeres-en-cienaga/</loc>
+		<lastmod>2024-05-31T19:50:16+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Portada-Juntos-por-el-PROgreso-1-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/Con-Ia-jornada-Juntos-por-el.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

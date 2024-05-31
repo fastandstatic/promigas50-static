@@ -12,13 +12,13 @@
 	<atom:link href="/category/destacado/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/destacado/</link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Mar 2024 14:13:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 May 2024 19:50:16 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/Enmascarar-grupo-116.png</url>
@@ -37,7 +37,7 @@
 				<category><![CDATA[Destacado]]></category>
 		<guid isPermaLink="false">/?p=979</guid>
 
-					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social de Promigas. Este vocero, escogido en cada una de las iniciativas que lidera su fundación, nos cuenta desde el lugar de la noticia las historias que resaltan el compromiso de Promigas con llevar progreso a las comunidades. Desde Ciénaga (Magdalena), Gisela Martínez, beneficiaria de 'Alas Comunidades', nos cuenta cómo fue la I jornada 'Juntos por el Progreso Social'.]]></description>
+					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social de Promigas.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="REPORTERA DE LA HUELLA SOCIAL" width="800" height="450" src="https://www.youtube.com/embed/0oQtz9a3cUI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
