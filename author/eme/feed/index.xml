@@ -12,13 +12,13 @@
 	<atom:link href="/author/eme/feed/" rel="self" type="application/rss+xml" />
 	<link>/author/eme/</link>
 	<description></description>
-	<lastBuildDate>Fri, 31 May 2024 19:50:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Jun 2024 19:19:47 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/Enmascarar-grupo-116.png</url>
@@ -460,7 +460,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Fri, 31 May 2024 14:32:01 +0000</pubDate>
-				<category><![CDATA[Noticia]]></category>
+				<category><![CDATA[Destacado]]></category>
 		<guid isPermaLink="false">/?p=2445</guid>
 
 					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social positiva...]]></description>
@@ -643,7 +643,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Sun, 10 Mar 2024 21:08:16 +0000</pubDate>
-				<category><![CDATA[Destacado]]></category>
+				<category><![CDATA[Noticia]]></category>
 		<guid isPermaLink="false">/?p=979</guid>
 
 					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social de Promigas.]]></description>
