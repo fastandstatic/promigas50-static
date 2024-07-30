@@ -12,13 +12,13 @@
 	<atom:link href="/author/eme/feed/" rel="self" type="application/rss+xml" />
 	<link>/author/eme/</link>
 	<description></description>
-	<lastBuildDate>Thu, 11 Jul 2024 20:54:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jul 2024 21:22:00 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/Enmascarar-grupo-116.png</url>
@@ -39,7 +39,7 @@
 
 					<description><![CDATA[Barranquilla, julio de 2024. Bajo la premisa de que hacerle frente a los retos del cambio climático es una tarea de todos, Promigas y su Fundación Promigas, y el Fondo Acción lanzan la convocatoria ‘Territorios Más Sostenibles’ para financiar, mediante una bolsa conjunta de 2.000 millones de pesos, hasta 11 proyectos que aumenten la capacidad [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><em>Serán seleccionados hasta 11 proyectos de Antioquia, Atlántico, Bolívar, Córdoba, La Guajira, Magdalena, Norte de Santander, Santander o Sucre, que promuevan acciones para adaptarse a los efectos del cambio climático, que se financiarán a través de una bolsa de $ 2.000 millones aportados por Promigas y sus empresas, a través de su Fundación Promigas, y Fondo Acción.</em></li>
 
 
@@ -73,7 +73,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>La adaptación de sistemas agroalimentarios para las nuevas condiciones del clima, asegurando la producción de alimentos.</li>
 
 
@@ -91,7 +91,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Organizaciones cuyo foco de acción sea en los departamentos de <strong>Antioquia, Atlántico, Bolívar, Córdoba, La Guajira, Magdalena, Norte de Santander, Santander </strong>o<strong> Sucre.</strong></li>
 
 
@@ -129,7 +129,7 @@
 
 					<description><![CDATA[La Guajira y Bolívar, mayo de 2024.  Con el fin de hacerle frente a una de las mayores barreras que enfrentan las personas migrantes...]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><em>Como parte del proyecto ‘Círculos de Cuidado’, 378 personas migrantes y colombianas retornada y comunidades de acogida recibieron un acompañamiento integral para el fortalecimiento de capacidades y el mejoramiento de sus ingresos económicos.</em></li>
 
 
@@ -185,7 +185,7 @@
 
 					<description><![CDATA[Bucaramanga, mayo de 2024. A través de la gastronomía, se prepara la receta del PROgreso para el desarrollo del departamento...]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><em>Luego de seis meses de formación de los 60 estudiantes en competencias gastronómicas, Promioriente y su Fundación Promigas, de la mano de la Universidad UNAB, la Cámara de Comercio de Bucaramanga y World Vision presentan avances de la iniciativa Cocina para Todos.</em></li>
 
 
@@ -258,7 +258,7 @@
 
 					<description><![CDATA[La Guajira, junio de 2024.  La Fundación Promigas conmemora 25 años impulsando el progreso en el territorio. La celebración...]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><em>Promigas y su Fundación Promigas lideran programas para beneficiar a 953 personas en el área de influencia del Gaseoducto Manaure &#8211; Uribia.</em></li>
 
 
@@ -323,12 +323,13 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Fri, 31 May 2024 14:43:08 +0000</pubDate>
-				<category><![CDATA[Noticia]]></category>
+				<category><![CDATA[Destacado]]></category>
+		<category><![CDATA[Noticia]]></category>
 		<guid isPermaLink="false">/?p=2448</guid>
 
 					<description><![CDATA[En el marco del encuentro entre comunidades con los promotores del proyecto Misión La Guajira...]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li>Se entregaron las primeras soluciones de acceso a agua y seguridad alimentaria a 9 comunidades, beneficiando a 487 familias, 2,000 habitantes del municipio de Manaure, La Guajira.  </li>
 
 
@@ -505,7 +506,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Fri, 31 May 2024 14:32:01 +0000</pubDate>
-				<category><![CDATA[Destacado]]></category>
+				<category><![CDATA[Noticia]]></category>
 		<guid isPermaLink="false">/?p=2445</guid>
 
 					<description><![CDATA[Desde el corazón de los proyectos, el reportero es la voz de los avances de la Huella Social positiva...]]></description>
@@ -516,7 +517,7 @@
 
 
 
-<p>Nuestra reportera  de la Huella Social, Alyson Ramírez, fue una de las anfitrionas de nuestro stand en la Semana Arpel/Naturgas. La beneficiaria de <em>Mujeres Pa’lante</em> nos cuenta un resumen de la participación en el congreso.</p>
+<p>Nuestra reportera&nbsp; de la Huella Social, Alyson Ramírez, fue una de las anfitrionas de nuestro stand en la Semana Arpel/Naturgas. La beneficiaria de <em>Mujeres Pa’lante</em> nos cuenta un resumen de la participación en el congreso.</p>
 
 
 
@@ -525,6 +526,10 @@
 
 
 <p>Los más de 2000 asistentes conocieron los productos de la nueva colección&nbsp; de Arcillas de Puerto Alegre, las mochilas y caminos de mesa de Tejiendo Progreso, la&nbsp; miel de Emprender Mujer y flor de clitoria de Patios Productivos, todos apoyados a&nbsp; través de proyectos liderados de la mano de <strong>Promigas y sus empresas.</strong></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/desde-bolivar-alyson-ramirez-reporta-nuestra-huella-social/feed/</wfw:commentRss>
@@ -544,7 +549,7 @@
 
 					<description><![CDATA[Ciénaga (Magdalena), 8 de marzo de 2024. El empoderamiento femenino promueve la autonomía económica de las mujeres y de sus hogares...]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><em>En el marco de los 50 años de Promigas y 25 de su fundación, se inicia la conmemoración con la primera jornada ‘Juntos por el PROgreso’, donde beneficiarios y familiares, líderes, vecinos y otros actores de la comunidad disfrutaron de una tarde llena de actividades para su bienestar.&nbsp;</em></li>
 
 
@@ -610,7 +615,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-4908c122 elementor-widget elementor-widget-text-editor" data-id="4908c122" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p>
 <ul>
 <li>A través de la iniciativa Mujeres Pa’lante, impulsada por Surtigas y su Fundación Promigas, en alianza con la Fundación Juanfe, las beneficiarias recibieron certificación en Servicios Hoteleros, con enfoque en Belleza y Cocina.</li>
@@ -700,7 +705,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><em>En el marco de los 50 años de Promigas y 25 de su fundación, se inicia la conmemoración con la primera jornada ‘Juntos por el PROgreso’, donde beneficiarios y familiares, líderes, vecinos y otros actores de la comunidad disfrutaron de una tarde llena de actividades para su bienestar. </em></li>
 </ul>
 
@@ -710,7 +715,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><em>Durante la jornada, 60 beneficiarias de ‘Alas Comunidades’ recibieron  certificación en Transformación Personal y Habilidades Empresariales para impulsar sus negocios de gastronomía, productos del mar y artesanías.</em></li>
 </ul>
 
