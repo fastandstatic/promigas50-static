@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://promigas50.fastandstatic.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://promigas50.fastandstatic.com/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2024-08-14T15:09:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://promigas50.fastandstatic.com/page-sitemap.xml</loc>
-		<lastmod>2024-08-30T19:55:54+00:00</lastmod>
+		<loc>/page-sitemap.xml</loc>
+		<lastmod>2024-09-03T19:38:26+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://promigas50.fastandstatic.com/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2024-08-14T15:09:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://promigas50.fastandstatic.com/author-sitemap.xml</loc>
+		<loc>/author-sitemap.xml</loc>
 		<lastmod>2024-06-04T21:14:52+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
