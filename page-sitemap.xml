@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-26T13:46:25+00:00</lastmod>
+		<lastmod>2024-09-26T14:12:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Grupo-13208.png</image:loc>
 		</image:image>
@@ -280,6 +280,9 @@
 			<image:loc>/wp-content/uploads/2024/09/2001.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-25-at-5.38.33-PM-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/2003.png</image:loc>
 		</image:image>
 		<image:image>
@@ -406,7 +409,7 @@
 			<image:loc>/wp-content/uploads/2024/03/utimos-anos-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1-19-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Formato-timelin-nuevas-14.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Anos-8.png</image:loc>
@@ -428,6 +431,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/2001.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-25-at-5.38.33-PM-scaled.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/2003-m.png</image:loc>
