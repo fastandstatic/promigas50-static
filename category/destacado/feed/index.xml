@@ -10,7 +10,7 @@
 <channel>
 	<title>Destacado Archives - Promigas 50 Años</title>
 	<atom:link href="/category/destacado/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/destacado/</link>
+	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 25 Sep 2024 17:19:11 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/03/Enmascarar-grupo-116.png</url>
 	<title>Destacado Archives - Promigas 50 Años</title>
-	<link>/category/destacado/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,24 +39,7 @@
 		<guid isPermaLink="false">/?p=3002</guid>
 
 					<description><![CDATA[Desde Cartagena, Luis Miguel Caraballo, participante del proyecto ‘Impulso Étnico’, es el nuevo Reportero de la Huella Social. Nos resume la entrega de capital semilla a 17 artistas locales, un evento organizado por Surtigas y su Fundación Promigas, en alianza con USAID Colombia, ACDIVOCA Colombia e IsrAID Colombia. La jornada incluyó la presencia de los Lanceros de la Independencia de Cartagena 2023 y una muestra cultural del talento local.]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="¡Desde Cartagena, en el lugar de la noticia, reportamos que somos PROgreso!" width="800" height="450" src="https://www.youtube.com/embed/y60x587PpCk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>¡Desde Cartagena, en el lugar de la noticia, reportamos que somos PROgreso! Luis Miguel Caraballo, participante del proyecto ‘Impulso Étnico’, es el nuevo Reportero de la Huella Social y nos brinda un resumen de la jornada de la entrega de capital semilla para 17 artistas locales de La Heroica.&nbsp;<img decoding="async" alt="&#x1faf1;&#x1f3fd;&#x200d;&#x1faf2;&#x1f3fc;" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/1faf1_1f3fd_200d_1faf2_1f3fc/32.png"><img decoding="async" alt="&#x1f331;" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/1f331/32.png"></p>
-
-
-
-<p>&nbsp;Este proyecto de Surtigas y su Fundación Promigas, en alianza con USAID Colombia, ACDIVOCA Colombia e IsrAID Colombia, busca fortalecer las iniciativas artísticas y culturales de la ciudad. En esta jornada vivimos momentos muy especiales, con la presencia de los Lanceros de la Independencia de Cartagena 2023 y la muestra cultural del talento local.&nbsp;</p>
-
-
-
-<p>&nbsp;¡Acompáñanos a ver a dónde llega el Reportero de la Huella&nbsp;Social!</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>/luis-miguel-caraballo-reporta-desde-el-lugar-de-la-noticia-que-somos-huella-social/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
