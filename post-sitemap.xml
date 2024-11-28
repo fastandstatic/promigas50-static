@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2024-09-25T17:20:20+00:00</lastmod>
+		<lastmod>2024-11-28T17:34:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/con-el-sector-gastronomico-promovemos-mas-empleo-juvenil-en-santander/</loc>
@@ -222,6 +222,13 @@
 		<lastmod>2024-09-25T17:20:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Comunicado-Alas-1024x683-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/juntos-por-el-progreso-asi-celebramos-25anosdehuellasocial/</loc>
+		<lastmod>2024-11-28T17:34:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/unnamed.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

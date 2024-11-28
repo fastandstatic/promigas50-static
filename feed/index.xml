@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 25 Sep 2024 17:20:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Nov 2024 17:34:49 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Juntos por el PROgreso: Así celebramos #25AñosDeHuellasocial</title>
+		<link>/juntos-por-el-progreso-asi-celebramos-25anosdehuellasocial/</link>
+					<comments>/juntos-por-el-progreso-asi-celebramos-25anosdehuellasocial/#respond</comments>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 17:31:34 +0000</pubDate>
+				<category><![CDATA[Noticia]]></category>
+		<guid isPermaLink="false">/?p=3415</guid>
+
+					<description><![CDATA[En el marco de esta celebración, la Fundación Promigas ha llevado a cabo las jornadas Juntos por el PROgreso, un espacio que ha reunido a comunidades, aliados y beneficiarios para conmemorar las historias de transformación que han marcado la Huella Social.]]></description>
+		
+					<wfw:commentRss>/juntos-por-el-progreso-asi-celebramos-25anosdehuellasocial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Luis Miguel Caraballo reporta desde el lugar de la noticia que somos Huella Social</title>
 		<link>/luis-miguel-caraballo-reporta-desde-el-lugar-de-la-noticia-que-somos-huella-social/</link>
 					<comments>/luis-miguel-caraballo-reporta-desde-el-lugar-de-la-noticia-que-somos-huella-social/#respond</comments>
@@ -177,23 +194,6 @@
 					<description><![CDATA[Bucaramanga, mayo de 2024. A través de la gastronomía, se prepara la receta del PROgreso para el desarrollo del departamento...]]></description>
 		
 					<wfw:commentRss>/con-el-sector-gastronomico-promovemos-mas-empleo-juvenil-en-santander/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Junto a las comunidades de La Guajira, Fundación Promigas celebra 25 años impulsando PROgreso</title>
-		<link>/junto-a-las-comunidades-de-la-guajira-fundacion-promigas-celebra-25-anos-impulsando-progreso/</link>
-					<comments>/junto-a-las-comunidades-de-la-guajira-fundacion-promigas-celebra-25-anos-impulsando-progreso/#respond</comments>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Fri, 31 May 2024 16:36:35 +0000</pubDate>
-				<category><![CDATA[Noticia]]></category>
-		<guid isPermaLink="false">/?p=2476</guid>
-
-					<description><![CDATA[La Guajira, junio de 2024.  La Fundación Promigas conmemora 25 años impulsando el progreso en el territorio. La celebración...]]></description>
-		
-					<wfw:commentRss>/junto-a-las-comunidades-de-la-guajira-fundacion-promigas-celebra-25-anos-impulsando-progreso/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
